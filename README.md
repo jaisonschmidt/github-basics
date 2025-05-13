@@ -20,9 +20,13 @@ GitHub é uma plataforma de hospedagem de código-fonte baseada na web que utili
 - **Automação**: Suporte para CI/CD e outras ferramentas de automação.
 - **Comunidade**: Facilita o compartilhamento de projetos open-source.
 
-### Histórico do Git e GitHub
+### Histórico do Git
 - **2005**: Linus Torvalds cria o Git para gerenciar o desenvolvimento do kernel Linux.
 - **2008**: Surge o GitHub, oferecendo uma interface amigável para o Git e recursos adicionais.
 - **2018**: O GitHub é adquirido pela Microsoft, consolidando sua posição como uma das principais plataformas de desenvolvimento de software.
+
+### O que são branches?
+
+Branches são ramificações dentro de um repositório Git que permitem trabalhar em diferentes funcionalidades, correções ou experimentos de forma isolada do código principal. Cada branch é uma linha independente de desenvolvimento, possibilitando que alterações sejam feitas sem impactar diretamente o código base. Após a conclusão do trabalho em uma branch, ela pode ser mesclada (merge) com outras branches, como a principal, integrando as mudanças de forma controlada e segura.
 
 Com o Git e o GitHub, desenvolvedores podem colaborar de forma eficiente, rastrear mudanças e compartilhar conhecimento, tornando-os ferramentas indispensáveis no desenvolvimento moderno de software.
